@@ -1,4 +1,4 @@
-package googlesignin.linh.vn.androidgooglesign_in
+package vn.linh.googlesignin.androidgooglesign_in
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
